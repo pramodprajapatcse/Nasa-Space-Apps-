@@ -1,11 +1,8 @@
 # NASA_SpaceAppChallenge
 
-## Cameroonionauts - 2nd Place Winners! ##
+## Prasunetech  ##
 
-- **2nd Place Winning Certificate** located [here](https://github.com/yli12313/NASA_SpaceAppChallenge/blob/main/certificate/Secon%20Place%20Award.pdf)!
 
-## Demo Video ##
-[Watch a demo](https://youtu.be/oupZIneJzl4?si=ewoqFXbj7z9YqSix)
 
 Agriculturists require information to make the correct decisions. In order to increase the accessibility to high-level datasets from NASA and other agencies, we made "Project Soil Tycoon." For example, if a researcher wants to know the most prominent fruit to plant on its soil to have the greatest annual return, the application will scrape the internet to select a relevant dataset publicly available on the internet, extract relevant features from this dataset, and finally enable the user to visualize and compare the yield of this fruit. These agriculturists must have reliable projections to drive their insights. This is important because a data platform should not be the deciding factor whether food is effectively produced at small-holder farmer levels. Food security depends on it.
 
@@ -33,10 +30,5 @@ As of our prototype, we haven't implemented artificial intelligence. However, it
 
 
 ## Interactive Prototype on Figma ##
-[View our prototype on Figma](<https://www.figma.com/proto/R65FodzeGFKTBDm1Th5UB4/Cameroonianauts-NASA-Space-Apps-23-Prototype?page-id=303%3A5687&type=design&node-id=305-1393&viewport=225%2C564%2C0.09&t=55yCoB2xX4yLzDZR-1&scaling=scale-down&starting-point-node-id=305%3A1393&mode=design)https://www.figma.com/proto/R65FodzeGFKTBDm1Th5UB4/Cameroonianauts-NASA-Space-Apps-23-Prototype?page-id=303%3A5687&type=design&node-id=305-1393&viewport=225%2C564%2C0.09&t=55yCoB2xX4yLzDZR-1&scaling=scale-down&starting-point-node-id=305%3A1393&mode=design/> "Named link title")
 
-## Data Sources ##
-[NASA EARTHData](https://search.earthdata.nasa.gov/search/granules?p=C2216864433-ORNL_CLOUD&amp;pg[0][v]=f&amp;pg[0][gsk]=-start_date&amp;q=csv&amp;gdf=CSV&amp;tl=1696808786.967!3!!&amp;fst0=Agriculture)
-[USDA AG Data Commons](https://data.nal.usda.gov/system/files/SSURGO%202.3.2%20Data%20Dictionary_0.csv)
-[USDA AG Data Commons](https://www.ers.usda.gov/webdocs/DataFiles/50673/CPIForecast.xlsx?v=7836.9)
-[USDA ERS](https://www.ers.usda.gov/webdocs/DataFiles/51035/Fruit%20Prices%202020.csv?v=3053.8)
+
